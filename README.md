@@ -2,12 +2,9 @@
 PowerShell Scripts learning and testing !
 
 目前工作中需要获取Windows系列的系统安装的软件详情信息！网上查找了几种获取的方式：
-
-一、基于Linux的wmic获取
-
-二、基于PowerShell脚本的注册表信息获取
-
-三、C++代码获取
+<br>一、基于Linux的wmic获取
+<br>二、基于PowerShell脚本的注册表信息获取
+<br>三、C++代码获取
 
 优缺点比较：
 
